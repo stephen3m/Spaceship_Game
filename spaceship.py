@@ -1,4 +1,3 @@
-#Problem E: 1. I created a cool background, 2. I made it so that the left and right walls loop (E.g. if spacecraft goes off left edge, teleports to right edge)
 import turtle, math, random
 class SpaceCraft(turtle.Turtle):
     '''
